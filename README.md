@@ -87,4 +87,4 @@ caller.
 
 ## Related Issue
 
-(filled in after filing)
+https://github.com/theimpostor/osc/issues/19
